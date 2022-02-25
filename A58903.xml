@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable address to the Right Honourable the Lord Mayor, Court of Aldermen, and commoners of the city of London, upon their present electing of sherifs [sic] by Philo-Patris, citizen, &amp;c.</title>
+            <author>Philo-patris, Citizen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58903</idno>
+            <idno type="STC">Wing S2205</idno>
+            <idno type="STC">ESTC R13210</idno>
+            <idno type="EEBO-CITATION">13135504</idno>
+            <idno type="OCLC">ocm 13135504</idno>
+            <idno type="VID">97911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable address to the Right Honourable the Lord Mayor, Court of Aldermen, and commoners of the city of London, upon their present electing of sherifs [sic] by Philo-Patris, citizen, &amp;c.</title>
+                  <author>Philo-patris, Citizen.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  England --  London.</term>
+               <term>London (England) --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:97911:1"/>
+            <pb n="1" facs="tcp:97911:1" rendition="simple:additions"/>
+            <head>A Seaſonable ADDRESS To the Right Honourable, the LORD MAYOR, Court of Aldermen, AND COMMONERS Of the CITY of LONDON, Upon their Preſent Electing of SHERIFS.</head>
+            <byline>
+               <hi>By</hi> PHILO-PATRIS, <hi>Citizen,</hi> &amp;c.</byline>
+            <opener>
+               <salute>My LORD, and Fellow-Citizens,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is now high time to conſider of an Expedient to cure the Diſtem<g ref="char:EOLhyphen"/>pers that ſo much prevails in our Corporation, ſince Matters are grown to ſuch a hight, that too many amongst <g ref="char:V">Ʋ</g>s, think it their Great Intereſt to Croſs, yea, and Oppoſe too the preſent Conſtitu<g ref="char:EOLhyphen"/>tion of the Government: Have we not already been deluded by the Subtilties and Contrivances of the buiſy <hi>Jeſuit?</hi> and the Male-contented men amongst <g ref="char:V">Ʋ</g>s? to Act ſuch things within the Me<g ref="char:EOLhyphen"/>mory of Man, which has expoſed <g ref="char:V">Ʋ</g>s to the Scorn and Contempt of all Nations round about us: Have we been led into Rebellion by their Stratagems and Devices, and with our Power and Purſes destroyed the beſt Government, and the beſt of Kings? and ſhall we ſtill be deluded; have we not enough ſmarted under the Tyranny
+<pb n="2" facs="tcp:97911:2"/> and Cruelty of Murderers and <g ref="char:V">Ʋ</g>ſurpers, who brought us ſo low, that if the imme<g ref="char:EOLhyphen"/>diate hand of God had not interpos'd, and restor'd us to Peace and Settlement, we had certainly been the moſt miſerable Nation in <hi>Europe;</hi> and after all this to be forgiven all our Murders, Rebellions, and whatever Crimes we had committed againſt our lawful King and Government, ſtill to murmure and repent, and fill our <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with Complaints, as if we had rather return again to our old Trade of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nting, and <hi>Curſe ye Meroz,</hi> then live in Peace and be obedient to our Gover<g ref="char:EOLhyphen"/>nours. Surely the hand of Heaven has been upon us by Warrand Plague, will that give us no Warning neither? Nay do we not ſee a ſenſible Decay and Poverty, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> waſting of the very Spirit and Life of the City and Nation, occaſioned by the Diſcon<g ref="char:EOLhyphen"/>tents and Confuſions, that are among us, whereas had we united and lovd one ano<g ref="char:EOLhyphen"/>ther (though of different Perſwaſions in Religion) or had we all joyn'd together to oppoſe Popery, Prophaneſs, and the Outrages of Fanaticiſm, and been contented un<g ref="char:EOLhyphen"/>der the ſeveral diſpenſations of Governments ſince the Kings Return, been obedient to the Laws, and true lovers of our King, and of our own Peace me might have now been the happiest City in the World. Oh my Lord, I wiſh that theſe things may ne<g ref="char:EOLhyphen"/>ver again be told of in <hi>Gath,</hi> nor Publiſhed in the Gates of <hi>Askalon,</hi> least the An<g ref="char:EOLhyphen"/>tichriſtian Crew Tryumph, and Sing their <hi>Io-Paeans</hi> on our Deſtruction.</p>
+            <p>Do we not plainly ſee that the ſame principled men are now again working their Deſigns, to put us, in the ſame confuſion as before? See what Affronts, what Inſo<g ref="char:EOLhyphen"/>lencies are daily offer'd to the Perſons of Governours and the Government, How many little Citizens become (in their own opinion) States-men, and inſtead of minding their Shops and Buſineſs, are hearded into little Parties, to conſider what are fit Instruments to be ſet up to carry on their little Policies againſt the eſtabliſh'd Government and Laws? So that it is high time, My Lord and Bretheren, that we (who love our King, and the true Reformed Religion is Eſtabliſh'd among us by Law) be very diligent to put the Laws in Execution againſt ſuch publick and ſcandalous Offenders, ſince all the fair Means imaginable will not perſwade them to Unity and good Order.</p>
+            <p>My Lord and Fellow Citizens, why ſhall we permit our Adverſaries to triumph over us thus, with their noiſe and non-ſenſe? Let us ſtand up like <hi>Men of Courage,</hi> and hand in hand joyn together against the torrent of <hi>Jeſuitical Plots</hi> and <hi>Fana<g ref="char:EOLhyphen"/>tical-Rage,</hi> leſt we all periſh in the gainſaying of <hi>Corah.</hi>
+            </p>
+            <p>Is it not too obvious to us all, that thoſe very many Teſtimonies we have had of a Damnable <hi>Popiſh Deſign</hi> to ſubvert our Government, are now become highly eſteemed of through the Follies of thoſe that teſtified? Do we not ſee thoſe very Men, inſtead of joyning with the Church of <hi>England,</hi> (the only Bulwark to keep Popery out, ſecure the Monarchy, and keep us in Peace and <g ref="char:V">Ʋ</g>nity) follow the diſcontented men amongſt us; nay as if there were a kind of agreement made between <hi>Rome</hi> and <hi>Geneva?</hi>
+            </p>
+            <p>Have we not ſeen what miſguided Zeal has formerly done? And did we not ſee men lately in Authority among us, purſuing Popery ſo hot, that the very Effigies of our Saviour muſt be made Fuel, with the other Superſtitious Rags of <hi>Antichriſtian</hi> Trumpery Thus we cry out <hi>Popery, Jeſuits, Popiſhly affected,</hi> &amp;c. and lead our ſelves at the ſame time into Confuſion or Deſtruction. Let us but keep quiet, ſubmit to our Governours and our Laws, and then we need not fear Popery, nor (which is as bad) Arbitrary Government. Have we not ſeen among the Crew of our late Refor<g ref="char:EOLhyphen"/>ming Murderers, a notorious Jeſuite, triumphing to ſee the Sacred Head of the best of Kings taken off even at his own Gate (as the Famous <hi>Du Moulin</hi> offers to prove) and ſhall we ſtill be blind, and not conſider that the very ſame Emiſſaries (ſince they could not effect their late bloudy Deſigns) are now amongſt us in Sheeps cloa<g ref="char:EOLhyphen"/>thing, blowing up the Coals of Sedition and Diſcontent, on purpoſe to accompliſh their work in the midſt of our Confuſions.</p>
+            <pb n="3" facs="tcp:97911:2"/>
+            <p>Wherefore, my Lord, It highly concerns us all to look home, ſince our King and Government is in danger, that we admit none into any publick places of Truſt in our City, but ſuch as are of undoubted Loyalty, and great Integrity, not ſuch who can ſwallow Oaths upon Oaths, and contradictory ones too, when it ſerves their Intereſt, not ſuch who have laid themſelves forth for the pretended good of the Subject, in all changes of Government among us.</p>
+            <p>Then ſhall we bear Teſtimony of our Sincerity to maintain the true Interest of our King, and the true Reformed Religion. For what truſt ought there by the King or <g ref="char:V">Ʋ</g>s, be put into Their hands, who are men of ſuch dangerous Principles? Or what ſecurity can there be given for them, when Zeal, and the advantages of high Places, and love of Faction, ſhall byaſs them under the changes of any Government.</p>
+            <p>Oh that we did all conſider our own Intereſts and Peace, and that we would lay it to heart before it be too late, Let not our Murmurings and Repinings, nor our Po<g ref="char:EOLhyphen"/>piſh and Factious Deſigns, provoke the King to Wrath, let us remember what the Wiſe man ſaid, <hi>The Wrath of a King is as Meſſengers of Death, but a Wiſe man will pacifie it.</hi> Let us not forfeit our Birthright for a Meſs of Pottage; throw away our Peace, our Religion, Liberty and Property, for the ſake of a few Scraps of Policie and Faction, which will be our Ruine. Let us not under the notion of Zeal for the Proteſtant Interest be Proteſtants frighted out of our Wits. Thanks be to God we have a good King, a King that has expreſsed more affection to us by his frequent Vi<g ref="char:EOLhyphen"/>ſits, by adding large Immunities to our City, then was ever done by many of our Kings before him, and Thanks be to God he may live many Years to Reign over us (which God Grant) ſo that what ever Fears and Jealouſies we have of Popery, &amp;<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be ſure we are ſafe both in our Religion and Property as long as the King lives, and we cannot but know that 'tis not ſo eaſie a matter to introduce Popery amongſt us, as 'twill be a Common-Wealth (the bottom of all theſe Deſigns) when once, our Di<g ref="char:EOLhyphen"/>viſions drive us into Rage and Madneſs.</p>
+            <p>
+               <hi>My Lord,</hi> I have my Being amongſt you, and would not willingly ſee my Bre<g ref="char:EOLhyphen"/>thren led away again into Captivity under n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Task-Masters; Let us all unite in Brotherly Love, and let thoſe who endeavour to widen our differences, by Preach<g ref="char:EOLhyphen"/>ments and Coffee-Houſe Diſcourſes, be ſtrictly called to an Accompt, according <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Law Commands, that we may be once again reduced to a state of Peace and Hap<g ref="char:EOLhyphen"/>pineſs among our ſelves.</p>
+            <p>
+               <hi>My Lord,</hi> Now whatever reaſons they are that do perſwade the Diſcontented Par<g ref="char:EOLhyphen"/>ty amongst us, to be out of Love with Peace and <g ref="char:V">Ʋ</g>nity, and the preſent ſettlement, I am ſure they can no ways compenſate the Miſchiefs which do of Conſequence attend ſuch Actions.</p>
+            <p>
+               <hi>My Lord,</hi> I have no Deſign in ſending this Addreſs to Your Lordſhip, but to cast in a Mite according to my duty at this juncture of time, endeavouring to per<g ref="char:EOLhyphen"/>ſwade my fellow Citizens that they would become good Mens, and good Chriſtians, and that I am ſure the Conſequence will be Peace and Tranquility in our <hi>Iſrael;</hi> for, <hi>My Lord</hi> what ever Interests are ſet up against the Eſtabliſhed Law of this Kingdom, either in Church or State, must lead to Sedition and Rebellion, from which as 'tis your Lordſhips Care and Duty to prevent, ſo I do aſſure your Lordſhip, that notwithſtanding the noiſes the <hi>Popiſh and Fanatick</hi> Rage may make, You will find that nothing can ſecure us but by obſerving theſe Oaths, that oblige Magiſtrates to put in Execution ſuch Laws as may curb the Inſolencies of ſuch Perſons,</p>
+            <closer>
+               <salute>My Lord, and Fellow-Citizens,</salute> I am,
+<signed>Your Obedient Servant, LOVE.</signed>
+               <dateline>London <date>
+                     <hi>July 19th. 1680.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:97911:3"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Shall not fail to acquaint Your Lordſhip in a few Days, (God willing) both with my Name, and Place of Living; that what I have written may not be taken for a <hi>LIBEL,</hi> but the well meaning of a true Lover of the <hi>KING,</hi> and His Royal Interest, the Church of <hi>ENGLAND,</hi> and this Honourable <hi>CITY,</hi> and all the Honourable Members thereof.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
